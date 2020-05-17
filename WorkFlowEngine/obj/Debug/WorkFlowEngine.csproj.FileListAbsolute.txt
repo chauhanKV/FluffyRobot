@@ -1,6 +1,0 @@
-D:\Study Stuff\C#\WorkFlowEngine\WorkFlowEngine\bin\Debug\WorkFlowEngine.exe.config
-D:\Study Stuff\C#\WorkFlowEngine\WorkFlowEngine\bin\Debug\WorkFlowEngine.exe
-D:\Study Stuff\C#\WorkFlowEngine\WorkFlowEngine\bin\Debug\WorkFlowEngine.pdb
-D:\Study Stuff\C#\WorkFlowEngine\WorkFlowEngine\obj\Debug\WorkFlowEngine.csprojAssemblyReference.cache
-D:\Study Stuff\C#\WorkFlowEngine\WorkFlowEngine\obj\Debug\WorkFlowEngine.exe
-D:\Study Stuff\C#\WorkFlowEngine\WorkFlowEngine\obj\Debug\WorkFlowEngine.pdb
